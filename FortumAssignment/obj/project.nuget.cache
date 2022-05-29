@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3QKuTwyTSKmYlA82PBdiS9OhvU9tfMvT4Edot+2u2NbFVrtLFdmEGwz/f6kT9ZOHHGOcicjofRj+VzLDXyXDfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chopr\\source\\repos\\FortumAssignment\\FortumAssignment\\FortumAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chopr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  fortumassignment:
+    image: ${DOCKER_REGISTRY-}fortumassignment
+    build:
+      context: .
+      dockerfile: FortumAssignment\Dockerfile
